@@ -68,9 +68,9 @@ Predict single image: load from dataset, infer, and display actual-predicted lab
 
 ## PROGRAM
 
-### Name:
+### Name: TAMIZHSELVAN B
 
-### Register Number:
+### Register Number: 212223230225
 
 ```python
 import torch
@@ -258,4 +258,4 @@ predict_image(model, image_index=80, dataset=test_dataset)
 <img width="405" height="428" alt="image" src="https://github.com/user-attachments/assets/fbf84253-c511-40e6-a236-41a57f0a8d4f" />
 
 ## RESULT
-Developing a convolutional neural network (CNN) classification model for the given dataset was executed successfully.
+Thus,developing a convolutional neural network (CNN) classification model for the given dataset was executed successfully.
